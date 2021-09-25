@@ -19,5 +19,6 @@ Hit Movies is an app that allows users to browse movies from the [The Movie Data
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-![](https://i.imgur.com/DqTOOGF.gif)
+![](https://github.com/ElioZhou/Hit-Movies/blob/main/demo.gif)
+
 
